@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.env
+.env.local
+*.log
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+build/
+.gradle/
+.idea/
+*.iml
+local.properties
